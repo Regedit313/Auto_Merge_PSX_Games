@@ -10,3 +10,5 @@ When it's finish, you gonna be invited to press any key and the program gonna qu
 Your merged PSX games are in the "MERGED" folder.
 
 When you have copied your games on your game device, you can delete the "ORIGINAL" and "MERGED" folders and restart the .bat file to create the empty "ORIGINAL" folder.
+
+Great thanks to "putnam" for original binmerge !
