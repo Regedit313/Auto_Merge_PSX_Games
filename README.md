@@ -1,5 +1,3 @@
-readme in construction !
-
 Simply start the .bat file to create the "ORIGINAL" folder.
 
 Put all your PSX games in the "ORIGINAL" folder.
